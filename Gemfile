@@ -18,7 +18,7 @@ gem "omniauth-google-oauth2"
 gem "omniauth-microsoft-office365"
 gem "paperclip", ">= 5.2.0"
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem "rails", "~> 6.0"
+gem "rails", "~> 6.1.4"
 # Use Puma as the app server
 gem "puma", "~> 5.5"
 # Use SCSS for stylesheets
@@ -72,7 +72,7 @@ gem "ahoy_matey"
 gem "i18n-js"
 
 # for lti provider
- gem "ims-lti", "~> 1.1.8"
+ gem "ims-lti", "~> 2.3.1"
 
 # Use Redis adapter to run Action Cable in production
 gem 'redis', '~> 4.0'
